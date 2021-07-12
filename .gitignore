@@ -1,0 +1,9 @@
+# environments
+.env
+venv/
+
+# pycharm files
+.idea/
+
+# settings of a server
+bot.conf
